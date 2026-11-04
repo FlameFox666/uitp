@@ -1,5 +1,4 @@
 # Для зручного перегляда домашок
-[![GitHub Pages](https://img.shields.io/github/deployments/FlameFox666/uitp/github-pages?label=GitHub%20Pages&style=flat-square&logo=githubpages&logoColor=white)](https://FlameFox666.github.io/uitp/)
 
 - [Лабораторна робота 1](./labs/lab01.md)
 - [Лабораторна робота 2](./labs/lab02.md)
