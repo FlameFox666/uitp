@@ -57,14 +57,14 @@ $7840 + $100 = $7940
 ### Крок 2. Розрахунок бюджету за моделлю Fixed Price
 
 #### 1. Базова вартість (Cost Baseline):
-`T&M * + 20% (Contingency Reserve)`
+`T&M + 20% (Contingency Reserve)`
 
 $7940 + 20% = $9528
 1. $7940 * 0.2 = $1588
 2. $7940 + $1588 = $9528
 
 #### 2. Фінальний бюджет Fixed Price
-`Cost Baseline * +10% (Management Reserve)`
+`Cost Baseline + 10% (Management Reserve)`
 
 $9528 + 10% = $9528
 1. $9528 * 0.1 = $952,8
